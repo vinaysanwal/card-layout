@@ -1,0 +1,44 @@
+.App {
+  background: url("./208106.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 580px;
+  padding: 12rem 0px;
+}
+.card {
+  width: 700px;
+  margin: 0 auto;
+  background: #fff;
+  color: #000;
+  top: 5 rem;
+}
+.headContainer {
+  background: url("./nature.jpeg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 200px;
+}
+.middleContainer {
+  padding: 10px;
+}
+.imageStyle {
+  width: 15px;
+  height: 15px;
+  margin: 0px 3px;
+}
+.textStyle {
+  font-size: 13px;
+}
+.insideBox {
+  background-color: #ff9900;
+  width: 25%;
+  padding: 0px;
+  text-align: center;
+  line-height: 32px;
+  color: #fff;
+  font-weight: bold;
+}
